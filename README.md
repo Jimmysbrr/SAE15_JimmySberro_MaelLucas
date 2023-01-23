@@ -24,3 +24,6 @@ Entre 17h et 21h on voit que les parkings à vélo se remplisse un peu plus et q
 
 Pour conclure, on peut déjà faire une première hypothèse sur les horraires de saturation des parkings.
 En effet, les parkings sont saturés le matin en semaine et se vident le week-end aux mêmes horraires. On peut donc constater cette première différence. 
+En semaine, les parkings se remplisse le matin et se vident le soir, le week-end c'est l'inverse. 
+En effet en semaine la saturation des parkings le matin est dû aux déplacements des personnes pour aller au travail. Lorsque la journée est fini, ils reprennent leur voiture et rentre chez eux. 
+Le week-end c'est l'inverse car les gens prennent leur voiture pour allé se balader donc les parkings sont saturés aux alentours de 12h-14h et sont vides le matin et le soir. 
