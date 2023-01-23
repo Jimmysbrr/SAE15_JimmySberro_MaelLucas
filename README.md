@@ -1,7 +1,6 @@
 # SAE15_JimmySberro_MaelLucas
-Site internet avec les données de la SAE 15
 
-SAE15 - Données 
+# SAE15 - Données 
 
 Nous avons pu analyser plusieurs données lors du week-end ainsi qu'en semaine. 
 Notre groupe composé de Jimmy Sberro ainsi que Maël Lucas, nous avons relevé les données des parkings de voiture de montpellier ainsi que les parkings à vélo.
