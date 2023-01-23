@@ -7,14 +7,14 @@ Nous avons pu analyser plusieurs données lors du week-end ainsi qu'en semaine.
 Notre groupe composé de Jimmy Sberro ainsi que Maël Lucas, nous avons relevé les données des parkings de voiture de montpellier ainsi que les parkings à vélo.
 
 
-Week-end :
+# Week-end :
 
 Comme on a pu le voir, les parkings de voiture le matin se vident. On peut émettre l'hypothèse que les gense lève et sortent vers ses horraires (on peut penser aux courses, se balader, salle de sport et toutes autres ativités réalisées durant le week-end et cela a pour conséquence la baisse de place de parkings occupées dans les parkings privés. Nous avons fait le test entre 5h et 10h du matin donc ce qui correspond aux horraires où les gens se lève. 
 
 À la fin de la journée les parkings se re-remplissent on peut donc comprendre que les gens rentrent de leur journée. 
 
 
-La semaine : 
+# <h2> La semaine : </h2>
 
 En semaine, on peut voir que les parkings se remplisse entre 5h et 11h et que les parkings à vélo eux se vident. On peut voir qu'en semaine a ces horraires c'est très souvent les gens qui partent travailler. On peut donc voir que les gens se garent dans un parking avec leur voiture, malheuresement les parkings à vélo ne se vide pas énormement ce qui montre que pas tout le monde fini son trajet en vélo.
 
