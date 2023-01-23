@@ -17,12 +17,10 @@ Comme on a pu le voir, les parkings de voiture le matin se vident. On peut émet
 
 En semaine, on peut voir que les parkings se remplisse entre 5h et 11h et que les parkings à vélo eux se vident. On peut voir qu'en semaine a ces horraires c'est très souvent les gens qui partent travailler. On peut donc voir que les gens se garent dans un parking avec leur voiture, malheuresement les parkings à vélo ne se vide pas énormement ce qui montre que pas tout le monde fini son trajet en vélo.
 
-Entre 17h et 21h on voit que les parkings à vélo se remplisse un peu plus et que les parkings à voiture se vide énormément. En effet les gens sortent du travaillent, récupère leur voiture et rentre chez eux. 
+Entre 17h et 21h on voit que les parkings à vélo se remplisse un peu plus et que les parkings à voiture se vide énormément. En effet les gens sortent du travaillent, récupère leur voiture et rentre chez eux. Ces horraires correspondent aux sorties du bureaux ainsi que de beaucoup d'emplois on peut donc validé cette hypothèse. 
 
 
+# Conclusion 
 
-À la fin de la journée on peut également voir un remplissage des parkings privés (entre 17h et 20h). On peut également émettre l'hypothèse qui les gens qui sont partis le matin rentre du travail et retourne se garer dans un parking privé. 
-Ces horraires correspondent aux sorties du bureaux ainsi que de beaucoup d'emplois on peut donc validé cette hypothèse. 
-
-
-Pour conclure, on peut déjà faire une première hypothèse sur les horraires de saturation des parkings. En effet, 
+Pour conclure, on peut déjà faire une première hypothèse sur les horraires de saturation des parkings.
+En effet, les parkings sont saturés le matin en semaine et se vident le week-end aux mêmes horraires. On peut donc constater cette première différence. 
