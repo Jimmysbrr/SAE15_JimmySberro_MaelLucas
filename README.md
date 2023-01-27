@@ -24,6 +24,8 @@ Shémas pour les horaire matinales
 Shémas pour les horaire des retour de bureau
 ![image2](https://user-images.githubusercontent.com/122377916/215204766-2a11a6f5-5412-4a8a-a11a-b433425d6e20.png)
 
+Notre hypotèse pour la semaine a donc été prouver ont voit très clairement une courbe decroissante pour les horaires matinales et une courbe croissante pours les horaires en soirée.
+
 
 # Conclusion 
 
