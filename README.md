@@ -15,9 +15,16 @@ Comme on a pu le voir, les parkings de voiture le matin se vident. On peut émet
 
 # La semaine :
 
-En semaine, on peut voir que les parkings se remplisse entre 5h et 11h et que les parkings à vélo eux se vident. On peut voir qu'en semaine a ces horraires c'est très souvent les gens qui partent travailler. On peut donc voir que les gens se garent dans un parking avec leur voiture, malheuresement les parkings à vélo ne se vide pas énormement ce qui montre que pas tout le monde fini son trajet en vélo.
+Pour les parking en semaines nous avions deja quelques hypotèse simple basé sur la logique:
+En effet une hypotèse logique que nous avons émis etait un remplissage des parking le matin lorsque tout le monde prenais ça voiture et allait au travaille. On obtiendrais une coubre du remplissage moyen déccroissante le matin si notre hypotèse venait a etre validé. Par la suite nous avons donc logiquement penser que alors les parking devrait se remplir sur les heures de retour de bureau, et donc nous donné un courbe de remplissage moyen croissante le matin. Une fois ces hypotèse émise nous avons commencer a recolter des donner sur les horaire matinal et en debut de soirée.
 
-Entre 17h et 21h on voit que les parkings à vélo se remplisse un peu plus et que les parkings à voiture se vide énormément. En effet les gens sortent du travaillent, récupère leur voiture et rentre chez eux. Ces horraires correspondent aux sorties du bureaux ainsi que de beaucoup d'emplois on peut donc validé cette hypothèse. 
+Shémas pour les horaire matinales
+![image](https://user-images.githubusercontent.com/122377916/215204760-bb333ad7-562e-42e5-a0de-6433802e1863.png)
+
+Shémas pour les horaire des retour de bureau
+![image2](https://user-images.githubusercontent.com/122377916/215204766-2a11a6f5-5412-4a8a-a11a-b433425d6e20.png)
+
+Notre hypotèse pour la semaine a donc été prouver ont voit très clairement une courbe decroissante pour les horaires matinales et une courbe croissante pours les horaires en soirée.
 
 
 # Conclusion 
