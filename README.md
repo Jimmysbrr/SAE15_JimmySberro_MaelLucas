@@ -27,7 +27,7 @@ Shémas pour les horaire des retour de bureau
 Notre hypotèse pour la semaine a donc été prouver ont voit très clairement une courbe decroissante pour les horaires matinales et une courbe croissante pours les horaires en soirée.
 
 
-Cependant lors de l'analyse du nombre de trotinette en moyenne disponnible dans les stations de notre zone, meme sur un ecart de temps plus long, nous n'avons pas réussi a determiner une réel corrélation sur cette heure la (voir graph ci-dessous)
+Cependant lors de l'analyse du nombre de trotinette en moyenne disponnible dans les stations de notre zone, meme sur un ecart de temps plus long, nous n'avons pas réussi a determiner une réel corrélation sur cette heure la (voir graph ci-dessous du matin de la meme date)
 
 ![image3](https://user-images.githubusercontent.com/122377916/215211910-d7448c29-6ba5-4f66-acec-c3f3985f7a5e.png)
 
