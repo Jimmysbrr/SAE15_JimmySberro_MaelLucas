@@ -8,9 +8,9 @@ Notre groupe composé de Jimmy Sberro ainsi que Maël Lucas, nous avons relevé 
 
 # Week-end :
 
-Comme on a pu le voir, les parkings de voiture le matin se vident. On peut émettre l'hypothèse que les gense lève et sortent vers ses horraires (on peut penser aux courses, se balader, salle de sport et toutes autres ativités réalisées durant le week-end et cela a pour conséquence la baisse de place de parkings occupées dans les parkings privés. Nous avons fait le test entre 5h et 10h du matin donc ce qui correspond aux horraires où les gens se lève. 
+Comme le montre le graph ci-dessous nous relevon un ecart type assez elever durant le week-end, et cela sur la plus part de nos parking analyser. il est donc possible de dire que, au vu de ses valeur très variable que montre l'ecart type que certain parking sont saturé durant le week-end, et particulièrement le samedi avec un ecart-type plus élever. il se pourrait que certain parking soient saturer pendant le week-end et comme nous pouvont le voir samedi majoritairement
 
-À la fin de la journée les parkings se re-remplissent on peut donc comprendre que les gens rentrent de leur journée. 
+["capture samedi matin"]
 
 
 # La semaine :
@@ -33,8 +33,4 @@ Cependant lors de l'analyse du nombre de trotinette en moyenne disponnible dans 
 
 # Conclusion 
 
-Pour conclure, on peut déjà faire une première hypothèse sur les horraires de saturation des parkings.
-En effet, les parkings sont saturés le matin en semaine et se vident le week-end aux mêmes horraires. On peut donc constater cette première différence. 
-En semaine, les parkings se remplisse le matin et se vident le soir, le week-end c'est l'inverse. 
-En effet en semaine la saturation des parkings le matin est dû aux déplacements des personnes pour aller au travail. Lorsque la journée est fini, ils reprennent leur voiture et rentre chez eux. 
-Le week-end c'est l'inverse car les gens prennent leur voiture pour allé se balader donc les parkings sont saturés aux alentours de 12h-14h et sont vides le matin et le soir. 
+Pour conclure ont peut donc affirmer que en semaine les parking voitures semble suivre notre hypothèse. Ils se remplissent et se vident en suivant les horaire de travail, avec une moyenne de place prise decroissante le matin et croissante le soir au allentour de 18h. Suite a l'étude et l'analyse du pourcentages moyen des velo disponibles nous n'avons pas pu observer de corélation sur nos capture. Il est cependant important de noté que sur le week-end des valeur très élever (du moins supperieur a ce que nous avons relever sur les parking de voitures en semaine) pour notre ecart-type. Il est probable que certain parking soient alors saturer sur ses periodes, Il aurait alors été interressant de capturer les données plusieurs semaines de suites ce que nous n'avons malheureusement pas pu faire.
